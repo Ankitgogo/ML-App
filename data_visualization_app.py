@@ -7,7 +7,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import percentile
-from scipy import stats
+from scipy import stats 
+st.write 
 
 # configuration
 st.set_option('deprecation.showfileUploaderEncoding', False)
